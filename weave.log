@@ -1,0 +1,96 @@
+Wed Feb 24 15:08:48 CST 2016
+[error] classpath error: unable to find org.aspectj.lang.JoinPoint (check that aspectjrt.jar is in your classpath)
+	
+Wed Feb 24 15:08:56 CST 2016
+[error] classpath error: unable to find org.aspectj.lang.JoinPoint (check that aspectjrt.jar is in your classpath)
+	
+Wed Feb 24 15:09:02 CST 2016
+[error] classpath error: unable to find org.aspectj.lang.JoinPoint (check that aspectjrt.jar is in your classpath)
+	
+Wed Feb 24 15:12:47 CST 2016
+/Users/jack/Documents/workspace/android/MyApplication2/aspectjlibrary/build/intermediates/classes/release!com/example/jack/aspectjlibrary/BeforeMethodAspect.class [warning] advice defined in com.example.jack.aspectjlibrary.BeforeMethodAspect has not been applied [Xlint:adviceDidNotMatch]
+	
+Wed Feb 24 15:12:54 CST 2016
+/Users/jack/Documents/workspace/android/MyApplication2/aspectjlibrary/build/intermediates/classes/debug!com/example/jack/aspectjlibrary/BeforeMethodAspect.class [warning] advice defined in com.example.jack.aspectjlibrary.BeforeMethodAspect has not been applied [Xlint:adviceDidNotMatch]
+	
+Wed Feb 24 15:31:48 CST 2016
+com/example/jack/aspectjlibrary/BeforeMethodAspect.java [error] Invalid pointcut 'aspectMethodCreate || aspectMethodCreateView': org.aspectj.weaver.patterns.ParserException: name pattern at position 0
+	
+/Users/jack/Documents/workspace/android/MyApplication2/aspectjlibrary/build/intermediates/classes/release!com/example/jack/aspectjlibrary/BeforeMethodAspect.class [warning] advice defined in com.example.jack.aspectjlibrary.BeforeMethodAspect has not been applied [Xlint:adviceDidNotMatch]
+	
+Wed Feb 24 17:24:08 CST 2016
+com/example/jack/aspectjlibrary/BeforeMethodAspect.java [error] Invalid pointcut 'aspectMethodCreate || aspectMethodCreateView': org.aspectj.weaver.patterns.ParserException: name pattern at position 0
+	
+/Users/jack/Documents/workspace/android/MyApplication2/aspectjlibrary/build/intermediates/classes/release!com/example/jack/aspectjlibrary/BeforeMethodAspect.class [warning] advice defined in com.example.jack.aspectjlibrary.BeforeMethodAspect has not been applied [Xlint:adviceDidNotMatch]
+	
+Wed Feb 24 17:24:12 CST 2016
+com/example/jack/aspectjlibrary/BeforeMethodAspect.java [error] Invalid pointcut 'aspectMethodCreate || aspectMethodCreateView': org.aspectj.weaver.patterns.ParserException: name pattern at position 0
+	
+/Users/jack/Documents/workspace/android/MyApplication2/aspectjlibrary/build/intermediates/classes/debug!com/example/jack/aspectjlibrary/BeforeMethodAspect.class [warning] advice defined in com.example.jack.aspectjlibrary.BeforeMethodAspect has not been applied [Xlint:adviceDidNotMatch]
+	
+Wed Feb 24 17:34:11 CST 2016
+/Users/jack/Documents/workspace/android/MyApplication2/aspectjlibrary/build/intermediates/classes/release!com/example/jack/aspectjlibrary/BeforeMethodAspect.class [warning] advice defined in com.example.jack.aspectjlibrary.BeforeMethodAspect has not been applied [Xlint:adviceDidNotMatch]
+	
+Wed Feb 24 17:34:12 CST 2016
+/Users/jack/Documents/workspace/android/MyApplication2/aspectjlibrary/build/intermediates/classes/debug!com/example/jack/aspectjlibrary/BeforeMethodAspect.class [warning] advice defined in com.example.jack.aspectjlibrary.BeforeMethodAspect has not been applied [Xlint:adviceDidNotMatch]
+	
+Wed Feb 24 17:37:11 CST 2016
+/Users/jack/Documents/workspace/android/MyApplication2/aspectjlibrary/build/intermediates/classes/release!com/example/jack/aspectjlibrary/BeforeMethodAspect.class [warning] advice defined in com.example.jack.aspectjlibrary.BeforeMethodAspect has not been applied [Xlint:adviceDidNotMatch]
+	
+Wed Feb 24 17:37:45 CST 2016
+/Users/jack/Documents/workspace/android/MyApplication2/aspectjlibrary/build/intermediates/classes/release!com/example/jack/aspectjlibrary/BeforeMethodAspect.class [warning] advice defined in com.example.jack.aspectjlibrary.BeforeMethodAspect has not been applied [Xlint:adviceDidNotMatch]
+	
+Wed Feb 24 17:41:44 CST 2016
+/Users/jack/Documents/github/AndroidAOP/aspectjlibrary/build/intermediates/classes/release!com/example/jack/aspectjlibrary/BeforeMethodAspect.class [warning] advice defined in com.example.jack.aspectjlibrary.BeforeMethodAspect has not been applied [Xlint:adviceDidNotMatch]
+	
+Wed Feb 24 17:41:58 CST 2016
+/Users/jack/Documents/github/AndroidAOP/aspectjlibrary/build/intermediates/classes/debug!com/example/jack/aspectjlibrary/BeforeMethodAspect.class [warning] advice defined in com.example.jack.aspectjlibrary.BeforeMethodAspect has not been applied [Xlint:adviceDidNotMatch]
+	
+Wed Feb 24 17:47:06 CST 2016
+/Users/jack/Documents/github/AndroidAOP/aspectjlibrary/build/intermediates/classes/release!com/example/jack/aspectjlibrary/BeforeMethodAspect.class [warning] advice defined in com.example.jack.aspectjlibrary.BeforeMethodAspect has not been applied [Xlint:adviceDidNotMatch]
+	
+/Users/jack/Documents/github/AndroidAOP/aspectjlibrary/build/intermediates/classes/release!com/example/jack/aspectjlibrary/aspect/BeforeMethodAspect.class [warning] advice defined in com.example.jack.aspectjlibrary.aspect.BeforeMethodAspect has not been applied [Xlint:adviceDidNotMatch]
+	
+Wed Feb 24 17:55:03 CST 2016
+<Unknown> [error] Invalid pointcut 'execution( * com.example.jack.aspectjlibrary.CustomAspect * *(..))': org.aspectj.weaver.patterns.ParserException: ( at position 58
+	
+<Unknown> [error] Invalid pointcut 'execution( * com.example.jack.aspectjlibrary.CustomAspect *.new(..))': org.aspectj.weaver.patterns.ParserException: ( at position 58
+	
+Wed Feb 24 21:21:34 CST 2016
+<Unknown> [error] Invalid pointcut 'execution( * com.example.jack.aspectjlibrary.CustomAspect * *(..))': org.aspectj.weaver.patterns.ParserException: ( at position 58
+	
+<Unknown> [error] Invalid pointcut 'execution( * com.example.jack.aspectjlibrary.CustomAspect *.new(..))': org.aspectj.weaver.patterns.ParserException: ( at position 58
+	
+Thu Feb 25 10:16:40 CST 2016
+<Unknown> [error] Invalid pointcut 'execution( * com.example.jack.aspectjlibrary.CustomAspect * *(..))': org.aspectj.weaver.patterns.ParserException: ( at position 58
+	
+<Unknown> [error] Invalid pointcut 'execution( * com.example.jack.aspectjlibrary.CustomAspect *.new(..))': org.aspectj.weaver.patterns.ParserException: ( at position 58
+	
+Thu Feb 25 10:16:46 CST 2016
+<Unknown> [error] Invalid pointcut 'execution( * com.example.jack.aspectjlibrary.CustomAspect * *(..))': org.aspectj.weaver.patterns.ParserException: ( at position 58
+	
+<Unknown> [error] Invalid pointcut 'execution( * com.example.jack.aspectjlibrary.CustomAspect *.new(..))': org.aspectj.weaver.patterns.ParserException: ( at position 58
+	
+Thu Feb 25 10:28:48 CST 2016
+<Unknown> [error] Invalid pointcut 'execution( * com.example.jack.aspectjlibrary.CustomAspect * *(..))': org.aspectj.weaver.patterns.ParserException: ( at position 58
+	
+<Unknown> [error] Invalid pointcut 'execution( * com.example.jack.aspectjlibrary.CustomAspect *.new(..))': org.aspectj.weaver.patterns.ParserException: ( at position 58
+	
+Thu Feb 25 10:28:49 CST 2016
+<Unknown> [error] Invalid pointcut 'execution( * com.example.jack.aspectjlibrary.CustomAspect * *(..))': org.aspectj.weaver.patterns.ParserException: ( at position 58
+	
+<Unknown> [error] Invalid pointcut 'execution( * com.example.jack.aspectjlibrary.CustomAspect *.new(..))': org.aspectj.weaver.patterns.ParserException: ( at position 58
+	
+Thu Feb 25 10:33:03 CST 2016
+/Users/jack/Documents/github/AndroidAOP/aspectjlibrary/build/intermediates/classes/release!com/example/jack/aspectjlibrary/aspect/BeforeMethodAspect.class [warning] advice defined in com.example.jack.aspectjlibrary.aspect.BeforeMethodAspect has not been applied [Xlint:adviceDidNotMatch]
+	
+Thu Feb 25 10:38:12 CST 2016
+/Users/jack/Documents/github/AndroidAOP/aspectjlibrary/build/intermediates/classes/release!com/example/jack/aspectjlibrary/aspect/BeforeMethodAspect.class [warning] advice defined in com.example.jack.aspectjlibrary.aspect.BeforeMethodAspect has not been applied [Xlint:adviceDidNotMatch]
+	
+/Users/jack/Documents/github/AndroidAOP/aspectjlibrary/build/intermediates/classes/release!com/example/jack/aspectjlibrary/aspect/CustomAspect.class [warning] advice defined in com.example.jack.aspectjlibrary.aspect.CustomAspect has not been applied [Xlint:adviceDidNotMatch]
+	
+Thu Feb 25 10:42:38 CST 2016
+/Users/jack/Documents/github/AndroidAOP/aspectjlibrary/build/intermediates/classes/release!com/example/jack/aspectjlibrary/aspect/BeforeMethodAspect.class [warning] advice defined in com.example.jack.aspectjlibrary.aspect.BeforeMethodAspect has not been applied [Xlint:adviceDidNotMatch]
+	
+/Users/jack/Documents/github/AndroidAOP/aspectjlibrary/build/intermediates/classes/release!com/example/jack/aspectjlibrary/aspect/CustomAspect.class [warning] advice defined in com.example.jack.aspectjlibrary.aspect.CustomAspect has not been applied [Xlint:adviceDidNotMatch]
+	
